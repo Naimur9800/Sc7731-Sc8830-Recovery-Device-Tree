@@ -1,0 +1,111 @@
+# Un-categorized
+bin/engpc
+lib/libatparser.so
+bin/npsmobex
+bin/refnotify 
+bin/sswap
+vendor/firmware/fw_bcmdhd.bin
+vendor/firmware/fw_bcmdhd_apsta.bin
+vendor/firmware/vbc_eq
+vendor/lib/mediadrm/libdrmclearkeyplugin.so
+vendor/lib/libavcodec.so
+vendor/lib/libavformat.so
+vendor/lib/libavutil.so
+vendor/lib/libffmpeg_extractor.so
+vendor/lib/libffmpeg_omx.so
+vendor/lib/libffmpeg_utils.so
+vendor/lib/libswresample.so
+vendor/lib/libswscale.so
+
+# GPS
+etc/gps.conf
+bin/gpsd
+bin/gps.cer
+lib/liblcsagent.so
+
+# Graphics rendering
+lib/libboost.so
+lib/egl/libGLES_mali.so
+
+# Audio
+lib/libfactoryutil.so
+lib/libomission_avoidance.so
+lib/libatchannel.so
+
+# WiFi
+etc/wifi/bcmdhd_apsta.bin
+etc/wifi/bcmdhd_mfg.bin
+etc/wifi/bcmdhd_sta.bin
+etc/wifi/nvram_mfg.txt
+
+# Bluetooth
+vendor/firmware/BCM43430A1_V0025.0070.hcd
+vendor/firmware/BCM4343A0_001.001.034.0056.0197_M_ORC_Core3.hcd
+vendor/lib/libbt-vendor.so
+
+# RIL
+bin/rild_sprd
+bin/modemd
+bin/nvitemd
+bin/phoneserver
+bin/modem_control
+bin/ext_data.sh
+bin/ext_kill.sh
+bin/ext_symlink.sh
+bin/prepare_param.sh
+lib/libril.so
+lib/libreference-ril_sp.so
+lib/libsecril-client.so
+lib/libsecnativefeature.so
+
+# Camera
+lib/libisp.so
+lib/libmorpho_easy_hdr.so
+lib/libcalibration.so
+lib/libAF.so
+lib/libsft_af_ctrl.so
+lib/libdeflicker.so
+lib/libynoise.so
+lib/libspaf.so
+lib/liblsc.so
+lib/libAl_Awb.so
+lib/libAl_Awb_Sp.so
+lib/libae.so
+lib/libawb.so
+
+# Codecs
+lib/libomx_avcdec_hw_sprd.so
+lib/libomx_avcenc_hw_sprd.so
+lib/libomx_vpxdec_hw_sprd.so
+lib/libomx_m4vh263dec_hw_sprd.so
+lib/libomx_m4vh263enc_hw_sprd.so
+
+# HAL
+lib/hw/audio.a2dp.default.so
+lib/hw/audio.primary.sc8830.so
+lib/hw/audio.r_submix.default.so
+lib/hw/audio.usb.default.so
+lib/hw/audio_policy.default.so
+lib/hw/audio_policy.sc8830.so
+lib/hw/bluetooth.default.so
+lib/hw/camera.sc8830.so
+lib/hw/fm.sc8830.so
+lib/hw/gps.default.so
+lib/hw/gralloc.sc8830.so
+lib/hw/hwcomposer.sc8830.so
+lib/hw/keystore.default.so
+lib/hw/lights.sc8830.so
+lib/hw/local_time.default.so
+lib/hw/power.default.so
+lib/hw/power.sc8830.so
+lib/hw/sensors.sc8830.so
+lib/hw/sprd_gsp.sc8830.so
+lib/hw/vibrator.default.so
+
+# Magnetic sensor
+lib/libyasalgo.so
+
+# SoundFX
+lib/soundfx/libaudiosa_sec.so
+lib/soundfx/libaudioeffectoffload.so
+lib/lib_SoundAlive_play_ver125e.so
